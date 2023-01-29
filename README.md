@@ -14,6 +14,6 @@
 
 <div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=zcxey2911" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcxey2911&layout=compact&langs_count=8" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=zcxey2911" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zcxey2911&layout=compact&langs_count=2-" />
 <span>  </span>
 </div>
