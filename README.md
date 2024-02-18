@@ -7,7 +7,7 @@
 <br /><br />
 <div align="center">
 <span>  </span>
-<img height="170px" src="https://github-readme-stats.vercel.app/api?username=v3ucn" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v3ucn&layout=compact&langs_count=10&theme=merko" />
+<img height="170px" src="https://github-readme-stats.vercel.app/api?username=v3ucn" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=v3ucn&layout=compact&langs_count=10&theme=dracula" />
 <span>  </span>
 <a href="https://item.jd.com/13991059.html" target="_blank"><img height="170px" src="https://github.com/v3ucn/v3ucn/blob/main/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231229155024.png" /></a>
 </div>
